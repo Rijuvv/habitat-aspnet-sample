@@ -1,6 +1,6 @@
 $pkg_name="winsample"
 $pkg_origin="bbb"
-$pkg_version="0.2.0"
+$pkg_version="0.2.1"
 $pkg_upstream_url="https://github.com/mwrock/habitat-aspnet-sample"
 $pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 $pkg_license=@('MIT')
